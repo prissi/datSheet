@@ -36,3 +36,4 @@ Debug
 .vs
 pugixml-1.14
 vcpkg_installed
+datSheet.vcxproj.user
